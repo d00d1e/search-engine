@@ -1,0 +1,36 @@
+.search {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 10rem;
+}
+
+.search h4 {
+  margin: 50px 0 20px 0;
+  font-size: 30px;
+}
+
+.search input[type="text"] {
+  width: 60%;
+  border-radius: 30px;
+  outline: none;
+  padding: 15px 0 10px 20px;
+  border: 1px solid lightgray;
+}
+
+.search input[type="text"]:hover {
+  border: 1px solid gray;
+}
+
+.search a {
+  background-color: #f8f9fa;
+  margin-top: 20px;
+  width: 100px;
+  text-align: center;
+  margin-left: 5px;
+  border-radius: 4px;
+  color: #3c4043;
+}
+
+.search a:hover {
+  border: 1px solid lightgray;
+}
